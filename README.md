@@ -14,11 +14,11 @@ El curso de [**Ciberseguridad en Entornos de las Tecnologías de la Información
 - **Opción a prácticas (dual)**
 
 Los módulos profesionales que se abordan son
-- 5021. Incidentes de ciberseguridad
-- 5022. Bastionado de redes y sistemas
-- 5023. Puesta en producción segura
-- 5024. Análisis forense informático
-- 5025. Hacking ético
-- 5026. Normativa de ciberseguridad
+- Incidentes de ciberseguridad
+- Bastionado de redes y sistemas
+- Puesta en producción segura
+- Análisis forense informático
+- Hacking ético
+- Normativa de ciberseguridad
 
 
