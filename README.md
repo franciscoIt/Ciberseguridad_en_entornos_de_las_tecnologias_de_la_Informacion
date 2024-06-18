@@ -13,7 +13,7 @@ El curso de [**Ciberseguridad en Entornos de las Tecnologías de la Información
 - **Duración**: 720 horas
 - **Opción a prácticas (dual)**
 
-Los módulos profesionales que se abordan son:
+Los módulos profesionales que se abordan son
 - 5021. Incidentes de ciberseguridad
 - 5022. Bastionado de redes y sistemas
 - 5023. Puesta en producción segura
