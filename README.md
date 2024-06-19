@@ -4,6 +4,7 @@ Este repositorio tiene como propósito recopilar recursos relacionados con activ
 - Personas que estén considerando iniciar su formación
 - Estudiantes que deseen contrastar conceptos, métodos o formatos diferentes al contexto de sus actividades
 - Egresados que necesiten repasar con ejemplos prácticos
+** Si eres estudiante, te animo a colaborar, completar, corregir y o seguir con la iniciativa.
 
 # Contexto
 
